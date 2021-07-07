@@ -24,14 +24,14 @@ export default function Protfolio() {
 
     return (
         <div className="cardDiv" >
-            <img src="pro.jpeg" alt="" className="proPic" style={STYLE} />
+            <img src="/portfolio/pro.jpeg" alt="" className="proPic" style={STYLE} />
             <div className="cardTextDiv" >
                 <Card className={classes.root} >
                     <CardActionArea style={{ backgroundImage: "url(https://media.istockphoto.com/photos/paper-texture-white-background-of-crumpled-old-paper-card-with-blank-picture-id1058849314)", backgroundSize: "cover" }} >
                         <CardMedia
                             component="img"
                             height="300PX"
-                            image="web1.png"
+                            image="/portfolio/web1.png"
                         />
                         <CardContent>
             
@@ -59,7 +59,7 @@ export default function Protfolio() {
                         <CardMedia
                             component="img"
                             height="300PX"
-                            image="web2.png"
+                            image="/portfolio/web2.png"
                         />
                         <CardContent>
           
@@ -87,7 +87,7 @@ export default function Protfolio() {
                         <CardMedia
                             component="img"
                             height="300PX"
-                            image="web3.jpeg"
+                            image="/portfolio/web3.jpeg"
                         />
                         <CardContent>
                      
