@@ -1,7 +1,7 @@
 import React from 'react';
 import {Switch, Route} from 'react-router-dom';
 import Home from '../Pages/Home/Home';
-import Protfolio from '../Pages/Protfolio/Protfolio';
+import Protfolio from '../Pages/Frotfolio/Frotfolio';
 import Skills from '../Pages/Skills/Skills';
 import ContactMe from '../Pages/ContactMe/ContactMe';
 
