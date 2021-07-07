@@ -1,0 +1,18 @@
+.logoH1{
+    background-color: rgba(0, 0, 0, 0.329);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 99.8vw;
+}
+.techLogo{
+    border-radius: 100%;
+    border: black;
+    width: 30px;
+    margin-left: -80%;
+}
+.mailSpan{
+    color: white;
+    font-size: medium;
+    margin-left: 85px;
+}

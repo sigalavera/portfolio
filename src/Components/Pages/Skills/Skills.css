@@ -1,0 +1,27 @@
+.secDiv{
+    background-color: black;
+    width: 99.7vw;
+    height: 86.2vh;
+}
+
+#textDiv{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+
+.text1, .text2, .text3{
+    color: white;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    align-items: center;
+}
+

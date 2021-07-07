@@ -1,0 +1,15 @@
+.cardDiv{
+    display: flex;
+    justify-content:space-evenly;
+    width: 100vw;
+    height: 80vh;
+    position: relative;    
+}
+.proPic{
+    position: absolute;
+    background-size: cover;
+}
+/* 
+.cardTextDiv{
+    background-image: url("https://media.istockphoto.com/photos/paper-texture-white-background-of-crumpled-old-paper-card-with-blank-picture-id1058849314");
+} */

@@ -1,0 +1,11 @@
+.title1{
+    font-size: 100px;
+    color: rgba(171, 86, 6, 0.462);
+    position: absolute;
+    margin-left: 450px;
+    margin-top: 10px;
+}
+.title2{
+    font-size: 100px;
+    position: relative;
+}
